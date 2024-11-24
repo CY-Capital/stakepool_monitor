@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "@solana/spl-stake-pool": "^1.1.8",
+        "@solana/web3.js": "^1.95.5",
+        "pg": "^8.13.1"
+    }
+}
